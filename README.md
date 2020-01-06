@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+#### 此项目安装了
+sass
+axios 封装好了 可以直接使用
+postcss-pxtorem 兼容移动端
+
+
+#### Css
+width: calc(100% - 100px);  //计算 calc()
